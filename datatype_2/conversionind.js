@@ -29,3 +29,15 @@ let f = Number (d);
 console.log(f);
 
 
+// conversion number to strings
+
+let numstore = 23;
+let num = String(numstore);
+console.log(num);
+console.log(typeof num);
+
+
+let char = "strings"
+let number = Number(3);
+console.log(number);
+console.log(typeof number);
