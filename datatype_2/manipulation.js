@@ -29,3 +29,10 @@
   console.log(carname);
  
 
+
+  // operation // // **************
+  let int = 4; 
+  
+  let intval = -int;
+  console.log(intval);
+
